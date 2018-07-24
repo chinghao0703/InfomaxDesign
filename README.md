@@ -1,6 +1,6 @@
 # InfomaxDesign
 
-This repository contains the Python codes develope for the following publication.
+This repository contains the Python codes developed for the following publication.
 
 *Promiscuity in protein-protein interactions limits the information capacity but increases the dynamical response of signaling pathways*
 
